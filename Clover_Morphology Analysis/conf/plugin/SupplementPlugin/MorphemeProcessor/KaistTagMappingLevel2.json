@@ -1,0 +1,12 @@
+{
+  "name": "KaistTagMappingLevel2",
+  "version": "1.0",
+  "author": [
+    {
+      "name": "박상원",
+      "email": "hudoni@gmail.com"
+    }
+  ],
+  "description": "(개발중) 카이스트 제 2단계 태그셋에 맞게 결과를 변환해서 보여준다.",
+  "type": "MorphemeProcessor" 
+}
